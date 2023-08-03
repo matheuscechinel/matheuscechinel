@@ -1,4 +1,4 @@
-### ola eu sou matheus,faço curso de programação e estudo na escola satc no 2 ano
+### Olá eu sou matheus,faço curso de programação e estudo na escola Satc no 2 ano
 <img src="https://media.tenor.com/o3SXzAksOokAAAAC/anime-meme.gif" width="100">
 
 tambem possuo conhecimento basico sobre algumas areas da preogrmação como:<br>
